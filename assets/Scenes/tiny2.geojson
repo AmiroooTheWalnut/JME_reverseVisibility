@@ -1,0 +1,290 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-05-24T16:05:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/810127813",
+        "building": "yes",
+        "name": "Health Sciences Innovation Building",
+        "short_name": "HSIB"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -110.9469822,
+              32.238795
+            ],
+            [
+              -110.9469842,
+              32.2394234
+            ],
+            [
+              -110.9471371,
+              32.2395919
+            ],
+            [
+              -110.9471365,
+              32.2396244
+            ],
+            [
+              -110.9474484,
+              32.2396223
+            ],
+            [
+              -110.9474429,
+              32.2387984
+            ],
+            [
+              -110.9469822,
+              32.238795
+            ]
+          ]
+        ]
+      },
+      "id": "way/810127813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/744649863",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -110.9475637,
+            32.239636
+          ],
+          [
+            -110.9474466,
+            32.2396575
+          ],
+          [
+            -110.9472149,
+            32.2396601
+          ],
+          [
+            -110.9470397,
+            32.2396206
+          ],
+          [
+            -110.9468921,
+            32.2395682
+          ],
+          [
+            -110.9468527,
+            32.239529
+          ],
+          [
+            -110.9468387,
+            32.2394858
+          ],
+          [
+            -110.9468364,
+            32.2389143
+          ]
+        ]
+      },
+      "id": "way/744649863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/798374713",
+        "access": "private",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -110.9476357,
+            32.2386647
+          ],
+          [
+            -110.9476363,
+            32.238866
+          ],
+          [
+            -110.9476366,
+            32.2390482
+          ],
+          [
+            -110.9476372,
+            32.2391545
+          ],
+          [
+            -110.9476533,
+            32.2392189
+          ],
+          [
+            -110.9476558,
+            32.2392282
+          ],
+          [
+            -110.9476738,
+            32.2392857
+          ],
+          [
+            -110.9476826,
+            32.2393873
+          ],
+          [
+            -110.947728,
+            32.239412
+          ]
+        ]
+      },
+      "id": "way/798374713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/798374714",
+        "access": "private",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -110.9480837,
+            32.2391582
+          ],
+          [
+            -110.9480792,
+            32.2390452
+          ],
+          [
+            -110.948074,
+            32.2388932
+          ],
+          [
+            -110.9480374,
+            32.2388623
+          ],
+          [
+            -110.9476363,
+            32.238866
+          ]
+        ]
+      },
+      "id": "way/798374714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/887374800",
+        "access": "private",
+        "highway": "service",
+        "service": "parking_aisle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -110.947728,
+            32.239412
+          ],
+          [
+            -110.9480442,
+            32.2394096
+          ],
+          [
+            -110.9480823,
+            32.2393836
+          ],
+          [
+            -110.9480827,
+            32.2392259
+          ],
+          [
+            -110.9480837,
+            32.2391582
+          ]
+        ]
+      },
+      "id": "way/887374800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/887374802",
+        "highway": "service",
+        "service": "parking_aisle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -110.9480827,
+            32.2392259
+          ],
+          [
+            -110.9476558,
+            32.2392282
+          ]
+        ]
+      },
+      "id": "way/887374802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/887374803",
+        "highway": "service",
+        "service": "parking_aisle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -110.9480792,
+            32.2390452
+          ],
+          [
+            -110.9476366,
+            32.2390482
+          ]
+        ]
+      },
+      "id": "way/887374803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/887374804",
+        "highway": "unclassified",
+        "maxspeed": "25 mph",
+        "name": "East Drachman Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Pima, AZ",
+        "tiger:name_base": "Drachman",
+        "tiger:name_direction_prefix": "E",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -110.9482811,
+            32.2396361
+          ],
+          [
+            -110.9475637,
+            32.239636
+          ]
+        ]
+      },
+      "id": "way/887374804"
+    }
+  ]
+}

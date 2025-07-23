@@ -1,0 +1,17 @@
+MaterialDef CombineTextures {
+    MaterialParameters {
+        Texture2D TextureA
+        Texture2D TextureB
+    }
+    Technique {
+        VertexShader GLSL100:   Shaders/UnionVShader.vert
+        FragmentShader GLSL100: Shaders/UnionFShader.frag
+
+        WorldParameters {
+            WorldViewProjectionMatrix
+        }
+        RenderState {
+            Blend Alpha
+        }
+    }
+}

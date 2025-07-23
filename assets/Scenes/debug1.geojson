@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-05-12T08:59:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/34865482",
+        "access": "permissive",
+        "amenity": "parking",
+        "building": "yes",
+        "fee": "yes",
+        "name": "Highland Parking Garage",
+        "operator": "University of Arizona",
+        "parking": "multi-storey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1,
+              -1
+            ],
+            [
+              1,
+              -1
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              -1,
+              1
+            ],
+            [
+              -1,
+              -1
+            ]
+          ]
+        ]
+      },
+      "id": "way/34865482"
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "@id": "way/14865482",
+        "access": "permissive",
+        "amenity": "parking",
+        "building": "yes",
+        "fee": "yes",
+        "name": "Highland Parking Garage",
+        "operator": "University of Arizona",
+        "parking": "multi-storey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4,
+              -4
+            ],
+            [
+              -6,
+              -4
+            ],
+            [
+              -6,
+              -6
+            ],
+            [
+              -4,
+              -6
+            ],
+            [
+              -4,
+              -4
+            ]
+          ]
+        ]
+      },
+      "id": "way/34865482"
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1091989324",
+        "highway": "residential",
+        "name": "East 12th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Pima, AZ",
+        "tiger:name_base": "12th",
+        "tiger:name_direction_prefix": "E",
+        "tiger:name_type": "St"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3,
+            -3
+          ],
+          [
+            2,
+            -2
+          ],
+		  [
+            5,
+            5
+          ],
+          [
+            -2,
+            2
+          ],
+          [
+            -2,
+            -2
+          ],
+          [
+            -3,
+            -3
+          ]
+        ]
+      },
+      "id": "way/1091989324"
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.5 1bd436f1",
+  "osm3s": {
+    "timestamp_osm_base": "2025-06-04T06:08:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 175303014,
+      "lat": 32.2764482,
+      "lon": -110.9866452
+    },
+    {
+      "type": "node",
+      "id": 175303015,
+      "lat": 32.276449,
+      "lon": -110.9883387
+    },
+    {
+      "type": "node",
+      "id": 175451043,
+      "lat": 32.2771117,
+      "lon": -110.9883345
+    },
+    {
+      "type": "node",
+      "id": 175544148,
+      "lat": 32.2767954,
+      "lon": -110.9866521
+    },
+    {
+      "type": "node",
+      "id": 175544152,
+      "lat": 32.2779222,
+      "lon": -110.9889271
+    },
+    {
+      "type": "node",
+      "id": 175548981,
+      "lat": 32.2774122,
+      "lon": -110.9889312
+    },
+    {
+      "type": "node",
+      "id": 1719016497,
+      "lat": 32.2764533,
+      "lon": -110.987026,
+      "tags": {
+        "traffic_calming": "bump"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3230922715,
+      "lat": 32.2759509,
+      "lon": -110.9882633
+    },
+    {
+      "type": "node",
+      "id": 3230922717,
+      "lat": 32.2762018,
+      "lon": -110.9882634
+    },
+    {
+      "type": "node",
+      "id": 7599841841,
+      "lat": 32.276918,
+      "lon": -110.9879497
+    },
+    {
+      "type": "node",
+      "id": 7599841842,
+      "lat": 32.2764503,
+      "lon": -110.9879409
+    },
+    {
+      "type": "node",
+      "id": 9678136588,
+      "lat": 32.2762737,
+      "lon": -110.9882848,
+      "tags": {
+        "traffic_calming": "bump"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9678350347,
+      "lat": 32.2764504,
+      "lon": -110.9879123,
+      "tags": {
+        "traffic_calming": "bump"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9678350390,
+      "lat": 32.2772289,
+      "lon": -110.9885668,
+      "tags": {
+        "traffic_calming": "bump"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9678350428,
+      "lat": 32.2777451,
+      "lon": -110.9885694,
+      "tags": {
+        "traffic_calming": "bump"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9678350827,
+      "lat": 32.2770488,
+      "lon": -110.988209
+    },
+    {
+      "type": "node",
+      "id": 9678350830,
+      "lat": 32.2769269,
+      "lon": -110.9879668
+    },
+    {
+      "type": "node",
+      "id": 9750878139,
+      "lat": 32.2773751,
+      "lon": -110.9878221,
+      "tags": {
+        "traffic_calming": "bump"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9750878148,
+      "lat": 32.2768889,
+      "lon": -110.9878912,
+      "tags": {
+        "traffic_calming": "bump"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9751030887,
+      "lat": 32.2769855,
+      "lon": -110.9870356,
+      "tags": {
+        "traffic_calming": "bump"
+      }
+    },
+    {
+      "type": "way",
+      "id": 16901084,
+      "bounds": {
+        "minlat": 32.2764482,
+        "minlon": -110.9883387,
+        "maxlat": 32.2764533,
+        "maxlon": -110.9866452
+      },
+      "nodes": [
+        175303014,
+        1719016497,
+        9678350347,
+        7599841842,
+        175303015
+      ],
+      "geometry": [
+        {
+          "lat": 32.2764482,
+          "lon": -110.9866452
+        },
+        {
+          "lat": 32.2764533,
+          "lon": -110.987026
+        },
+        {
+          "lat": 32.2764504,
+          "lon": -110.9879123
+        },
+        {
+          "lat": 32.2764503,
+          "lon": -110.9879409
+        },
+        {
+          "lat": 32.276449,
+          "lon": -110.9883387
+        }
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Apollo Drive",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Pima, AZ",
+        "tiger:name_base": "Apollo",
+        "tiger:name_type": "Dr",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 16917947,
+      "bounds": {
+        "minlat": 32.2759509,
+        "minlon": -110.9883387,
+        "maxlat": 32.2771117,
+        "maxlon": -110.9882633
+      },
+      "nodes": [
+        3230922715,
+        3230922717,
+        9678136588,
+        175303015,
+        175451043
+      ],
+      "geometry": [
+        {
+          "lat": 32.2759509,
+          "lon": -110.9882633
+        },
+        {
+          "lat": 32.2762018,
+          "lon": -110.9882634
+        },
+        {
+          "lat": 32.2762737,
+          "lon": -110.9882848
+        },
+        {
+          "lat": 32.276449,
+          "lon": -110.9883387
+        },
+        {
+          "lat": 32.2771117,
+          "lon": -110.9883345
+        }
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "North Mercury Avenue",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Pima, AZ",
+        "tiger:name_base": "Mercury",
+        "tiger:name_type": "Ave",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 16929432,
+      "bounds": {
+        "minlat": 32.2767954,
+        "minlon": -110.9889271,
+        "maxlat": 32.2779222,
+        "maxlon": -110.9866521
+      },
+      "nodes": [
+        175544148,
+        9751030887,
+        9750878139,
+        9678350428,
+        175544152
+      ],
+      "geometry": [
+        {
+          "lat": 32.2767954,
+          "lon": -110.9866521
+        },
+        {
+          "lat": 32.2769855,
+          "lon": -110.9870356
+        },
+        {
+          "lat": 32.2773751,
+          "lon": -110.9878221
+        },
+        {
+          "lat": 32.2777451,
+          "lon": -110.9885694
+        },
+        {
+          "lat": 32.2779222,
+          "lon": -110.9889271
+        }
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Saturn Road",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Pima, AZ",
+        "tiger:name_base": "Saturn",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 16929958,
+      "bounds": {
+        "minlat": 32.2764533,
+        "minlon": -110.9889312,
+        "maxlat": 32.2774122,
+        "maxlon": -110.987026
+      },
+      "nodes": [
+        1719016497,
+        9750878148,
+        7599841841,
+        9678350830,
+        9678350827,
+        175451043,
+        9678350390,
+        175548981
+      ],
+      "geometry": [
+        {
+          "lat": 32.2764533,
+          "lon": -110.987026
+        },
+        {
+          "lat": 32.2768889,
+          "lon": -110.9878912
+        },
+        {
+          "lat": 32.276918,
+          "lon": -110.9879497
+        },
+        {
+          "lat": 32.2769269,
+          "lon": -110.9879668
+        },
+        {
+          "lat": 32.2770488,
+          "lon": -110.988209
+        },
+        {
+          "lat": 32.2771117,
+          "lon": -110.9883345
+        },
+        {
+          "lat": 32.2772289,
+          "lon": -110.9885668
+        },
+        {
+          "lat": 32.2774122,
+          "lon": -110.9889312
+        }
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Tyros Avenue",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Pima, AZ",
+        "tiger:name_base": "Tyros",
+        "tiger:name_type": "Ave",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 813604068,
+      "bounds": {
+        "minlat": 32.2764503,
+        "minlon": -110.9879497,
+        "maxlat": 32.276918,
+        "maxlon": -110.9879409
+      },
+      "nodes": [
+        7599841841,
+        7599841842
+      ],
+      "geometry": [
+        {
+          "lat": 32.276918,
+          "lon": -110.9879497
+        },
+        {
+          "lat": 32.2764503,
+          "lon": -110.9879409
+        }
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Office Roadway"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+MaterialDef IntersectTexturesDetailed {
+    MaterialParameters {
+        Texture2D TextureA
+        Texture2D TextureB
+    }
+    Technique {
+        VertexShader GLSL100:   Shaders/IntersectionDVShader.vert
+        FragmentShader GLSL100: Shaders/IntersectionDFShader.frag
+
+        WorldParameters {
+            WorldViewProjectionMatrix
+        }
+        RenderState {
+            Blend Alpha
+        }
+    }
+}

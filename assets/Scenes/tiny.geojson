@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-05-12T08:59:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/34865482",
+        "access": "permissive",
+        "amenity": "parking",
+        "building": "yes",
+        "fee": "yes",
+        "name": "Highland Parking Garage",
+        "operator": "University of Arizona",
+        "parking": "multi-storey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -110.949887,
+              32.2375453
+            ],
+            [
+              -110.94989,
+              32.2378041
+            ],
+            [
+              -110.949894,
+              32.2380879
+            ],
+            [
+              -110.9498945,
+              32.2381259
+            ],
+            [
+              -110.9498953,
+              32.2381899
+            ],
+            [
+              -110.9509636,
+              32.2381801
+            ],
+            [
+              -110.9509564,
+              32.2376181
+            ],
+            [
+              -110.9509553,
+              32.2375354
+            ],
+            [
+              -110.9507527,
+              32.2375382
+            ],
+            [
+              -110.949887,
+              32.2375453
+            ]
+          ]
+        ]
+      },
+      "id": "way/34865482"
+    }
+  ]
+}
