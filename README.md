@@ -1,4 +1,4 @@
-This project contains the code for reverse visibility.
+This project contains the code for reverse visibility. The code is written in Java with JmonkeyEngine 3.8 stable.
 - The main function is inside "MainAlgorithm" package.
 - The package "esmaieeli/gisFastLocationOptimization" is for reading OpenStreetMap data and connect streets and junctions.
 - There are various testing codes for various functionalities of the project. For instance, testing the shadows for one building. These tests are in package "testPrototypes".
